@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/murderer"];
+const statusMessages = ["Made By @rtfo"];
 
 
 let currentIndex = 0;
